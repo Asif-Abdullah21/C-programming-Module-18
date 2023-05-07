@@ -35,7 +35,7 @@ int main()
 
 
 /*
-
+Another method:
 
 #include <stdio.h>
 int main()
