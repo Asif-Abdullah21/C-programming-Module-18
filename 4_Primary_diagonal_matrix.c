@@ -20,7 +20,7 @@ int main()
     if (flag)
         printf("Primary Diagonal\n");
     else
-        printf("Not Diagonal\n");
+        printf("Not Primary Diagonal\n");
 
     return 0;
 }
