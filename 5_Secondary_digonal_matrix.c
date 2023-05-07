@@ -17,10 +17,8 @@ int main()
     if (row != col) flag = 0; // checking that is it a square matrix!!!
     
 
-    if (flag)
-        printf("Secondary Diagonal\n");
-    else
-        printf("Not Secondary Diagonal\n");
+    if (flag) printf("Secondary Diagonal\n");
+    else printf("Not Secondary Diagonal\n");
 
     return 0;
 }
